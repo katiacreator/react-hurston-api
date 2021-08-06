@@ -23,7 +23,7 @@ class App extends Component {
         <header className="App-header">
           REACT HURSTON CRUD API
         <nav>
-          <NavLink exact to='/'>Hurston Works List</NavLink>
+          <NavLink exact to='/'>Hurston Collection List</NavLink>
           <NavLink className='m-left' exact to='/add'>Add Work</NavLink>
         </nav>
         </header>
